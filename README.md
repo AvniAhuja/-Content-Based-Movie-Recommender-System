@@ -6,3 +6,4 @@ Dataset Handling – Works with datasets like TMDB/IMDB.
 Data Preprocessing – Cleans and processes metadata (genres, cast, crew, overview, keywords).
 Similarity Matching – Calculates cosine similarity between movie vectors.
 Movie Recommendations – Suggests top-N similar movies for any input movie.
+ The dataset for the file  can be accessed at : https://drive.google.com/file/d/1VOVcsmIhvNUJp9Ae5bwEfqThlBG75Jzb/view?usp=drive_link
